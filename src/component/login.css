@@ -1,0 +1,16 @@
+.log{
+height: 800px;
+display: flex ;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 60px;
+}
+.login{
+    width: 100px;
+    height: 20px;
+    color: wheat;
+}
+h1{
+    color: white;
+}

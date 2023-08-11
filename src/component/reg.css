@@ -1,0 +1,34 @@
+.reg{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 800px;
+    display: flex;
+    flex-direction:  column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+button{
+    background-color: rgb(211, 45, 15);
+    border: 0 ;
+    border-radius: 5px;
+}
+div{
+    background-color: black;
+}
+input{
+    border: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(16, 56, 43);
+}
+.but{
+    display: flex ;
+    width: 150px;
+    justify-content: space-around;
+
+}
+h1{
+    background-color: black;
+}
